@@ -1,4 +1,4 @@
-# co2-emmissions-PRT# co2-emissions-PRT
+#co2-emissions-PRT
 **Student:** Nehemia Padernal
 **Country / ISO-3:** Portugal / PRT
 **Study period:** 1990 to 2024
